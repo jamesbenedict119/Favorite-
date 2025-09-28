@@ -7,7 +7,10 @@
 </head>
 <body>
   <h1>My Favorite Animal</h1>
-  <img src="resting-green-snake-stockcake.jpg" alt="resting-green-snake-" 
+  <a href="https://example.com">
+    <img src="resting-green-snake-stockcake.jpg" alt="resting-green-snake-" />
+  </a>
+
   <p>
     I like the green tree python because it’s beautifully colored, graceful in how it coils among branches, and fascinating in its arboreal lifestyle.  
     Its emerald-green skin helps it blend into foliage, and the way it hunts from trees makes it mysterious and elegant.
@@ -15,7 +18,7 @@
 
   <h2>Cool Facts About Snakes</h2>
   <ul>
-    <li>Snakes don’t have eyelids — their eyes are covered by a clear scale called a *spectacle*.</li>
+    <li>Snakes don’t have eyelids — their eyes are covered by a clear scale called a <em>spectacle</em>.</li>
     <li>Some snakes (including many pythons) use heat-sensing pits to detect warm-blooded prey even in low light.</li>
     <li>Snakes can unhinge parts of their jaws (the two halves of the lower jaw) so they can swallow prey much larger than their head.</li>
   </ul>
