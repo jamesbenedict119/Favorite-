@@ -7,8 +7,7 @@
 </head>
 <body>
   <h1>My Favorite Animal</h1>
-  <img src="gettyimages-93103160.jpg" alt="Green_tree_python" width="200" height="200">
-
+  <img src="resting-green-snake-stockcake.jpg" alt="resting-green-snake-" 
   <p>
     I like the green tree python because it’s beautifully colored, graceful in how it coils among branches, and fascinating in its arboreal lifestyle.  
     Its emerald-green skin helps it blend into foliage, and the way it hunts from trees makes it mysterious and elegant.
