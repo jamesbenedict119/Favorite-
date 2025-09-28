@@ -8,9 +8,7 @@
 <body>
   <h1>My Favorite Animal</h1>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/A_Green_Tree_Python.jpg"
-       alt="Green tree python"
-       style="max-width:100%; height:auto;" />
+    <img src="https://gettyimages-93103160.jpg" alt="Description of image" width="200">
 
   <p>
     I like the green tree python because it’s beautifully colored, graceful in how it coils among branches, and fascinating in its arboreal lifestyle.  
